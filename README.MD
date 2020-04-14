@@ -1,5 +1,8 @@
 Messing with online python playgrounds
 
+NOTE: ONLINE PYTHON PLAYGROUNDS PROBABLY RUN ON DOCKER CONTAINERS OR SANDBOXES OR process lacks root privileges SO
+      NO REAL HARM CAN BE DONE WITH THIS
+
 Situation:
 
 All occurrences of this text 'system' will be stripped from the code written

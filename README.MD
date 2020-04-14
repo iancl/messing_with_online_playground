@@ -29,3 +29,7 @@ Try a, b, c by youselves because if I add them they will break the script
    
  2. use the setattr() build in function to extract the 'system' method from
     the os module during runtime
+
+
+## How to use
+just copy and paste in online editor and modify the shell commands at the end of the file

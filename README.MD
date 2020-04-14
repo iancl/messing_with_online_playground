@@ -1,9 +1,9 @@
-Messing with online python playgrounds
+# Messing with online python playgrounds
 
 NOTE: ONLINE PYTHON PLAYGROUNDS PROBABLY RUN ON DOCKER CONTAINERS OR SANDBOXES OR process lacks root privileges SO
       NO REAL HARM CAN BE DONE WITH THIS
 
-Situation:
+## Situation:
 
 All occurrences of this text 'system' will be stripped from the code written
 here when processed by the client or server. There for strings will be stripped
@@ -21,7 +21,8 @@ d- string '12system12' # will be converted to: 1212
 Try a, b, c by youselves because if I add them they will break the script
 
 
-Solution:
+## Solution:
+
 1. Create an algorithm that _during_runtime_ joins an array of chars and split them by using a designated char to signal that the current word is complete:
    i.e: ['o', 's', '.', 's', 'y', 's', 't', 'e', 'm'] should be turned into
    strings "os" and "system" during runtime

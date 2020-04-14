@@ -1,5 +1,8 @@
 '''
-Messing with online playgrounds
+Messing with online python playgrounds
+NOTE: ONLINE PYTHON PLAYGROUNDS PROBABLY RUN ON DOCKER CONTAINERS OR SANDBOXES SO
+      NO REAL HARM CAN BE DONE WITH THERE
+
 
 Situation:
 
